@@ -1,4 +1,4 @@
-# gedetineerden-systeem
+# Gedetineerden systeem
 
 Een systeem waarbij je gedetineerden kunt toevoegen, verwijderen en bewerken. Ook zijn er andere functies ingebouwd, zoals: cellen bekijken, zaken bekijken en bezoekers registratie.
 
